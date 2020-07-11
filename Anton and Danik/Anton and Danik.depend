@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579455404 source:e:\fci-h\pst\anton and danik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

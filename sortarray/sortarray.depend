@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583343192 source:e:\fci-h\pst\sortarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
