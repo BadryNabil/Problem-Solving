@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594627690 source:e:\education\pst\level2_ds\ binary tree [preorder, inorder,postorder]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
